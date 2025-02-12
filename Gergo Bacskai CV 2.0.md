@@ -10,29 +10,27 @@ Highly accomplished **Principal Data Engineer** with over 20 years of experience
 ---
 
 ### **Technical Skills**
-**Cloud Platforms:** AWS (DynamoDB, Glue, RedShift, SageMaker, Lambda, S3, EMR, RDS), Azure (Data Factory, PowerBI, MSSQL, Fabric), OCI (ADW, OAC, FAW, LakeHouse)
-**Databases:** Oracle, MSSQL, MySQL, PostgreSQL, Snowflake, DynamoDB, MongoDB, Redis, Cloudera
-**ETL Tools:** Talend, Informatica PowerCenter, Oracle Data Integrator, AWS Glue, Databricks, DBT
-**Programming/Scripting:** Python, SQL, PL/SQL, Node.js, Scala, Bash, COBOL
-**Data Modeling & Frameworks:** Data Vault 2.0, Kimball, Inmon, ErWin
-**Machine Learning & AI:** PyTorch, TensorFlow, AWS SageMaker, LLM, Vision AI, CVAT
-**CI/CD & DevOps:** Jenkins, Git, Azure DevOps, GitHub, Oracle DevOps
-**Containerization & Orchestration:** Docker, Kubernetes, VMware
-**Integration & Pipelines:** Apache Kafka, Kinesis, REST APIs, JSON, XML
-**Cybersecurity & Compliance:** IS027001, NIST, ASD Essential 8, COBIT 2019, ITIL 4, SIEM
+- **Cloud Platforms:** AWS (DynamoDB, Glue, RedShift, SageMaker, Lambda, S3, EMR, RDS), Azure (Data Factory, PowerBI, MSSQL, Fabric), OCI (ADW, OAC, FAW, LakeHouse)
+- **Databases:** Oracle, MSSQL, MySQL, PostgreSQL, Snowflake, DynamoDB, MongoDB, Redis, Cloudera
+- **ETL Tools:** Talend, Informatica PowerCenter, Oracle Data Integrator, AWS Glue, Databricks, DBT
+- **Programming/Scripting:** Python, SQL, PL/SQL, Node.js, Scala, Bash, COBOL
+- **Data Modeling & Frameworks:** Data Vault 2.0, Kimball, Inmon, ErWin
+- **Machine Learning & AI:** PyTorch, TensorFlow, AWS SageMaker, LLM, Vision AI, CVAT
+- **CI/CD & DevOps:** Jenkins, Git, Azure DevOps, GitHub, Oracle DevOps
+- **Containerization & Orchestration:** Docker, Kubernetes, VMware
+- **Integration & Pipelines:** Apache Kafka, Kinesis, REST APIs, JSON, XML
+- **Cybersecurity & Compliance:** IS027001, NIST, ASD Essential 8, COBIT 2019, ITIL 4, SIEM
 
 ---
 
 ### **Professional Experience**
 
-#### **Data Engineer – Contracting**
-**Rimini Street** | July 2024 – Present
+#### **Data Engineer – Contracting** - **Rimini Street** | July 2024 – Present
 - Leading the ETL platform uplift project for National Australia Bank (NAB), optimizing data pipelines and enhancing scalability.
 
 ---
 
-#### **Principal, Enterprise Technology and Performance**
-**Deloitte Consulting** | Aug 2019 – July 2024
+#### **Principal, Enterprise Technology and Performance** - **Deloitte Consulting** | Aug 2019 – July 2024
 - Spearheaded transformative data migration, analytics, and AI initiatives, delivering innovative solutions for clients across industries.
 - Acted as **Technology Advisor and Delivery Lead** for large-scale projects, including cloud migrations, system integrations, and cybersecurity enhancements.
 - Directed the development of key assets, including Generative AI and machine learning solutions, to drive intelligent automation and data protection.
@@ -48,8 +46,7 @@ Highly accomplished **Principal Data Engineer** with over 20 years of experience
 
 ---
 
-#### **Data Engineer**
-**NeoData Australia** | Sep 2011 – Aug 2019
+#### **Data Engineer** - **NeoData Australia** | Sep 2011 – Aug 2019
 - Delivered end-to-end data engineering solutions, including ETL pipelines, data warehousing, and analytics platforms.
 - Managed cross-functional teams of up to 50 professionals, driving innovation and operational excellence.
 - Played a pivotal role in the acquisition of NeoData by Deloitte, ensuring seamless integration and continuity of operations.
