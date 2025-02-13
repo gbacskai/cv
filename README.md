@@ -56,7 +56,7 @@ Highly accomplished **Principal Data Engineer** with over 20 years of experience
 **Key Projects:**
 - **[Australian Defence Force](https://www.defence.gov.au) – License Monitoring:** Implemented a centralized license management system, reducing costs and improving compliance.
 - **[South Australia Health](https://www.sahealth.sa.gov.au) – Oracle Exalytics Rollout:** Deployed a high-performance analytics platform, enabling real-time insights.
-- **[Wall Street Journal](https://www.wsj.com) – Revenue Reporting:** Designed and delivered a global revenue reporting system, improving financial transparency.
+- **[Wall Street English](https://www.wallstreetenglish.com/) – Revenue Reporting:** Designed and delivered a global revenue reporting system, improving financial transparency.
 
 ---
 
