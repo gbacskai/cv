@@ -61,10 +61,10 @@ Highly accomplished **Principal Data Engineer** with over 20 years of experience
 ---
 
 #### **Additional Experience**
-- **Senior Business Consultant**  [Tabcorp Assets Pty Ltd](https://www.tabcorp.com.au)  2011
-- **Principal Consultant**  [Capiotech Pty Ltd](https://www.capiotech.com)  2009 – 2011
+- **Senior Business Intelligence Consultant**  [Tabcorp Assets Pty Ltd](https://www.tabcorp.com.au)  2011
+- **Principal Data Consultant**  [Capiotech Pty Ltd](https://www.capiotech.com)  2009 – 2011
 - **Business Intelligence Architect**  [Babelgum Networks Ltd (EU)](https://en.wikipedia.org/wiki/Babelgum)  2008 – 2009
-- **Senior Consultant**  [System Dynamics Ltd (EU)](https://www.systemdynamics.com)  2006 – 2008
+- **Senior Architect**  [System Dynamics Ltd (EU)](https://www.systemdynamics.com)  2006 – 2008
 - **Business Intelligence Consultant**  [Liberty Global](https://www.libertyglobal.com)  2003 – 2006
 - **Database Administrator**  [Deutsche Telekom](https://www.telekom.com)  1998 – 2001
 
