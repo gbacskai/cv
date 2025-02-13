@@ -1,7 +1,8 @@
 **Gergo BACSKAI**
 
-Email: gbacskai@gmail.com | Mobile: +61449598795  
-[LinkedIn](https://www.linkedin.com/in/gbacskai/) | [GitHub](https://github.com/gbacskai) | [CV]([https://github.com/gbacskai](https://gbacskai.github.io/cv/))
+Email: gbacskai@gmail.com  
+Mobile: +61449598795  
+[LinkedIn](https://www.linkedin.com/in/gbacskai/) [GitHub](https://github.com/gbacskai) [CV](https://gbacskai.github.io/cv/)
 
 ---
 
@@ -26,12 +27,12 @@ Highly accomplished **Principal Data Engineer** with over 20 years of experience
 
 ### **Professional Experience**
 
-#### **Data Engineer – Contracting** - **[Rimini Street](https://www.riministreet.com)** | July 2024 – Present
+#### **Data Engineer – Contracting** - **[Rimini Street](https://www.riministreet.com)**  July 2024 – Present
 - Leading the [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) platform uplift project for [National Australia Bank (NAB)](https://www.nab.com.au), optimizing data pipelines and enhancing scalability.
 
 ---
 
-#### **Principal, Enterprise Technology and Performance** - **[Deloitte Consulting](https://www2.deloitte.com)** | Aug 2019 – July 2024
+#### **Principal, Enterprise Technology and Performance** - **[Deloitte Consulting](https://www2.deloitte.com)**  Aug 2019 – July 2024
 - Spearheaded transformative data migration, analytics, and [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) initiatives, delivering innovative solutions for clients across industries.
 - Acted as **Technology Advisor and Delivery Lead** for large-scale projects, including cloud migrations, system integrations, and cybersecurity enhancements.
 - Directed the development of key assets, including [Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) and [machine learning](https://en.wikipedia.org/wiki/Machine_learning) solutions, to drive intelligent automation and data protection.
@@ -47,7 +48,7 @@ Highly accomplished **Principal Data Engineer** with over 20 years of experience
 
 ---
 
-#### **Data Engineer** - **[NeoData Australia](https://www.neodata.com.au)** | Sep 2011 – Aug 2019
+#### **Data Engineer** - **[NeoData Australia](https://www.neodata.com.au)**  Sep 2011 – Aug 2019
 - Delivered end-to-end data engineering solutions, including [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pipelines, data warehousing, and analytics platforms.
 - Managed cross-functional teams of up to 50 professionals, driving innovation and operational excellence.
 - Played a pivotal role in the acquisition of NeoData by [Deloitte](https://www2.deloitte.com), ensuring seamless integration and continuity of operations.
@@ -60,12 +61,12 @@ Highly accomplished **Principal Data Engineer** with over 20 years of experience
 ---
 
 #### **Additional Experience**
-- **Senior Business Consultant** | [Tabcorp Assets Pty Ltd](https://www.tabcorp.com.au) | 2011
-- **Principal Consultant** | [Capiotech Pty Ltd](https://www.capiotech.com) | 2009 – 2011
-- **Business Intelligence Architect** | [Babelgum Networks Ltd (EU)](https://en.wikipedia.org/wiki/Babelgum) | 2008 – 2009
-- **Senior Consultant** | [System Dynamics Ltd (EU)](https://www.systemdynamics.com) | 2006 – 2008
-- **Business Intelligence Consultant** | [Liberty Global](https://www.libertyglobal.com) | 2003 – 2006
-- **Database Administrator** | [Deutsche Telekom](https://www.telekom.com) | 1998 – 2001
+- **Senior Business Consultant**  [Tabcorp Assets Pty Ltd](https://www.tabcorp.com.au)  2011
+- **Principal Consultant**  [Capiotech Pty Ltd](https://www.capiotech.com)  2009 – 2011
+- **Business Intelligence Architect**  [Babelgum Networks Ltd (EU)](https://en.wikipedia.org/wiki/Babelgum)  2008 – 2009
+- **Senior Consultant**  [System Dynamics Ltd (EU)](https://www.systemdynamics.com)  2006 – 2008
+- **Business Intelligence Consultant**  [Liberty Global](https://www.libertyglobal.com)  2003 – 2006
+- **Database Administrator**  [Deutsche Telekom](https://www.telekom.com)  1998 – 2001
 
 ---
 
