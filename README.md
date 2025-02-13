@@ -1,5 +1,3 @@
-**Gergo BACSKAI**
-
 Email: gbacskai@gmail.com  
 Mobile: +61449598795  
 [LinkedIn](https://www.linkedin.com/in/gbacskai/) [GitHub](https://github.com/gbacskai) [CV](https://gbacskai.github.io/cv/)
