@@ -71,7 +71,7 @@ Highly accomplished **Principal Data Engineer** with over 20 years of experience
 ---
 
 ### **Education**
-- **Master of Business Administration (MBA)** – [Budapest University of Technology](https://www.bme.hu)
+- **Master of Business Administration (MBA)** – [Budapest University of Technology](https://www.bme.hu/en)
 - **Bachelor of Electrical Engineering (BEE)** – [Pannon University](https://international.uni-pannon.hu/) / [Helsinki University of Technology](https://www.aalto.fi/en)
 
 ---
